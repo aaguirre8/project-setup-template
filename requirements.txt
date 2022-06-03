@@ -1,0 +1,10 @@
+pylint
+pytest
+pytest-cov
+click
+flask
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
