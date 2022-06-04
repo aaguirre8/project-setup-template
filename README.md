@@ -6,9 +6,9 @@ This is a general template to setup new projects
 1. Create and source virtual env
 
 ```bash
+python -m venv ~/.venv-project-setup
+source ~/.venv-project-setup/Scripts/activate
 ```
-python -m venv ProjectEnv
-ProjectEnv/Scripts/activate.bat
 
 2. Create scaffold
 
